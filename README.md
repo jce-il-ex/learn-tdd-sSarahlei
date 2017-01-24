@@ -22,7 +22,7 @@ For students, follow these steps:
 - github username: sSarahlei
 - Estimation of hours I worked on it: 1 hour
 
--link to travis:  
+-link to travis:https://travis-ci.org/jce-il-ex/learn-tdd-sSarahlei    
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
