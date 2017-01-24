@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Sarah Leibivotz
 - ID#:206096109
 - github username: sSarahlei
-- Estimation of hours I worked on it: 1 hour
+- Estimation of hours I worked on it: 2 hours
 
 * link to travis:https://travis-ci.org/jce-il-ex/learn-tdd-sSarahlei    
 
